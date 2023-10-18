@@ -4,8 +4,6 @@
 
 * Nicolas Matias Murillo <nicolasmatiasmurillo@gmail.com>
 
-* Ricardo Palma <ricardo.rpalma@gmail.com>
-
 
 ## Actividad 1: Crear el mapa de cuadrantes mágicos de Gartner de los principales software utilizados para videoconferencias durante la pandemia
 
